@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 import React, { useEffect, useState } from "react";
 import { getMovieCredits } from "../../api/tmdb-api";
 import { Link } from "react-router-dom";

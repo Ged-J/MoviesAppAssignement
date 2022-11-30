@@ -3,6 +3,7 @@ import { getMovieCredits } from "../../api/tmdb-api";
 import { Link } from "react-router-dom";
 import { excerpt } from "../../util";
 
+// eslint-disable-next-line import/no-anonymous-default-export
 export default ({ movie }) => {
 
 
