@@ -32,9 +32,7 @@ const MovieDetailsPage = (props) => {
         <>
           <PageTemplate movie={movie} >
             <MovieDetails movie={movie} />
-          </PageTemplate>
-
-          <table className="table table-striped table-bordered table-hover">
+            <table className="table table-striped table-bordered table-hover">
           <thead>
             <tr>
               <th><MovieCast movie={movie} /></th>
@@ -42,7 +40,7 @@ const MovieDetailsPage = (props) => {
             </tr>
           </thead>
         </table>
-
+          </PageTemplate>
         </>
       ) : (
         <p>Waiting for movie details</p>

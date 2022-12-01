@@ -27,7 +27,9 @@ const SiteHeader = ({ history }) => {
     { label: "Home", path: "/" },
     { label: "Favourites", path: "/movies/favourites" },
     { label: "Upcoming", path: "/movies/upcoming" },
-    { label: "Option 4", path: "/" },
+    { label: "Popular Movies", path: "/movies/popular" },
+    { label: "Popular Actors", path: "/actors" },
+    { label: "Favourite Actors", path: "/actors/favourites" }
   ];
 
   const handleMenuSelect = (pageURL) => {
@@ -40,13 +42,13 @@ const SiteHeader = ({ history }) => {
 
   return (
     <>
-      <AppBar position="fixed" color="secondary">
+      <AppBar position="fixed" rgb= "0,0,255">
         <Toolbar>
           <Typography variant="h4" sx={{ flexGrow: 1 }}>
             TMDB Client
           </Typography>
           <Typography variant="h6" sx={{ flexGrow: 1 }}>
-            All you ever wanted to know about Movies!
+            The Place all about movies and anything to do with them!
           </Typography>
             {isMobile ? (
               <>
