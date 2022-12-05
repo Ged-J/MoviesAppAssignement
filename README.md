@@ -57,7 +57,9 @@ e.g.
 
 ### UI Design.
 
-![ ](./images/home.png)
+
+
+![ ](C:\Users\juciu\Documents\GitHub\MoviesAppAssignement\src\images\home.png)
 
 >A redesign of the home page with new colours and new heading
 
