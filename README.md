@@ -59,7 +59,7 @@ e.g.
 
 
 
-![ ](/images/home.png)
+![ ](/src/images/home.png)
 
 >A redesign of the home page with new colours and new heading
 
