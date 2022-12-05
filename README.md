@@ -63,55 +63,55 @@ e.g.
 
 >A redesign of the home page with new colours and new heading
 
-![ ](./images/moviedetails.png)
+![ ](/src/images/moviedetails.png)
 
 >Cast and Crew added to movie details.
 
-![ ](./images/moviesfullreview.png)
+![ ](/src/images/moviesfullreview.png)
 
 >Shows the full review for a movie.
 
-![ ](./images/upcomingmovies.png)
+![ ](/src/images/upcomingmovies.png)
 
 >Shows the Upcoming Movies which has a details page like a normal movie and all the other things too.
 
-![ ](./images/popularmovies.png)
+![ ](/src/images/popularmovies.png)
 
 >Shows the Popular Movies which has a details page like a normal movie and all the other things too.
 
-![ ](./images/popularactors.png)
+![ ](/src/images/popularactors.png)
 
 >Shows the Popular actors each actor card has a button to favourite an actor or to see more info on the actor and also a filter card to find a specific actor
 
-![ ](./images/favouriteactors.png)
+![ ](/src/images/favouriteactors.png)
 
 >Shows the favourite actors that you favourited from the popular actors page with options to remove favourited actor and to see more info and a filter card to filter out specific actors
 
-![ ](./images/actordetails.png)
+![ ](/src/images/actordetails.png)
 
 >Shows the full details for an actor like birthplace and bio.
 
-![ ](./images/tvshows.png)
+![ ](/src/images/tvshows.png)
 
 >Shows Tv Shows, each tv show card has a button to favourite a tv show or to see more info on the tv show and also a filter card to find a specific tv show
 
-![ ](./images/tvshowdetails.png)
+![ ](/src/images/tvshowdetails.png)
 
 >Shows the full details for a tv show like genre and production places. There is also a button on bottom right to see the reviews of a movie
 
-![ ](./images/tvshowreviewpanel.png)
+![ ](/src/images/tvshowreviewpanel.png)
 
 >Shows the reviews on a panel on the tv show details page when review button is pressed this panel contains an option to see the full review on a new page.
 
-![ ](./images/tvshowfullreview.png)
+![ ](/src/images/tvshowfullreview.png)
 
 >Shows the full review for a tv show.
 
-![ ](./images/favouritetvshows.png)
+![ ](/src/images/favouritetvshows.png)
 
 >Shows the favourite tv shows that you favourited from the tv shows page with options to remove favourited tv shows and to see more info and a filter card to filter out specific tv shows and also a button to write a review for the tv show
 
-![ ](./images/reviewform.png)
+![ ](/src/images/reviewform.png)
 
 >A review form page for a tv show when filled out by user the review is submitted.
 
