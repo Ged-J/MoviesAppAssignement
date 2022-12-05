@@ -59,7 +59,7 @@ e.g.
 
 
 
-![ ](C:\Users\juciu\Documents\GitHub\MoviesAppAssignement\src\images\home.png)
+![ ](/images/home.png)
 
 >A redesign of the home page with new colours and new heading
 
